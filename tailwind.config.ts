@@ -21,6 +21,9 @@ const config: Config = {
           5: '#F8F9FA',
         },
       },
+      maxWidth: {
+        '8pt': '76rem',
+      },
     },
   },
   plugins: [],
